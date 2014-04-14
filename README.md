@@ -1,7 +1,7 @@
 Floyd's Stamp Collection App
 ----
 
-# About
+# About Floyd 
 
 Stuff about Floyd's Stamp Collection
 
